@@ -23,7 +23,7 @@
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/62831433937633">
+  <a href="https://wa.me/994408465157">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.tiktok.com/@knchann">
@@ -92,7 +92,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/kannachann/KannaBOT-MD/
+$ 
 $ cd KannaBOT-MD
 $ npm i 
 ```
