@@ -72,9 +72,9 @@
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/kannachann/kannabot-md/blob/multi-device/config.js#L1)
-- Owner Name [Here](https://github.com/kannachann/kannabot-md/blob/multi-device/config.js#L1)
-- Bot Name [Here](https://github.com/kannachann/kannabot-md/blob/multi-device/config.js#L1)
+- Owner Number [Here](https://github.com/aryjuanda/basekannachannbyaryganz/blob/master/config.js#L1)
+- Owner Name [Here](https://github.com/aryjuanda/basekannachannbyaryganz/blob/master/config.js#L1)
+- Bot Name [Here](https://github.com/aryjuanda/basekannachannbyaryganz/blob/master/config.js#L1)
 ---------
 
 ## ```Heroku Buildpack```
