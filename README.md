@@ -92,9 +92,9 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ 
-$ cd KannaBOT-MD
-$ npm i 
+$ git clone https://github.com/aryjuanda/basekannachannbyaryganz
+$ cd basekanna
+$ npm start
 ```
 If error try using yarn instead of npm, see [here](https://github.com/kannachann/KannaBOT-MD#if-npm-install-failed--try--using-yarn-instead-of-npm)
 ```bash
