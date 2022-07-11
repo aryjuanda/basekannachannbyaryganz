@@ -37,7 +37,7 @@
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/62831433937633"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+## ```Whatsapp``` <a href="https://wa.me/994408465157"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283143393763) 
 [![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62831433937633) 
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT) 
@@ -46,28 +46,28 @@
 #### KELEBIHAN 📍
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️](https://github.com/kannachann) |
-| **No Internet** |[✔️](https://github.com/kannachann) |
-| **Simple** |[✔️](https://github.com/kannachann) |
-| **Button template** |[✔️](https://github.com/kannachann) |
-| **Multi Device** |[✔️](https://github.com/kannachann) |
+| **Fast Respon** |[✔️](https://github.com/aryjuanda) |
+| **No Internet** |[✔️](https://github.com/aryjuanda) |
+| **Simple** |[✔️](https://github.com/adyjuanda) |
+| **Button template** |[✔️](https://github.com/aryjuanda) |
+| **Multi Device** |[✔️](https://github.com/aryjuanda) |
 ---------
 #### FITUR 📍
 | Fitur | Check |
 |--------|--------|
-| **Downloader** |[✔️](https://github.com/kannachann) |
-| **Internet** |[✔️](https://github.com/kannachann) |
-| **Game Rpg** |[✔️](https://github.com/kannachann) |
-| **Nsfw** |[✔️](https://github.com/kannachann) |
-| **Sticker** |[✔️](https://github.com/kannachann) |
-| **Game** |[✔️](https://github.com/kannachann) |
-| **Kerang Ajaib** |[✔️](https://github.com/kannachann) |
-| **Quotes** |[✔️](https://github.com/kannachann) |
-| **Anime** |[✔️](https://github.com/kannachann) |
-| **Premium** |[✔️](https://github.com/kannachann) |
-| **Tools** |[✔️](https://github.com/kannachann) |
-| **Exec** |[✔️](https://github.com/kannachann) |
-| **React** |[✔️](https://github.com/kannachann) |
+| **Downloader** |[✔️](https://github.com/aryjuanda) |
+| **Internet** |[✔️](https://github.com/aryjuanda) |
+| **Game Rpg** |[✔️](https://github.com/aryjuanda) |
+| **Nsfw** |[✔️](https://github.com/aryjuanda) |
+| **Sticker** |[✔️](https://github.com/aryjuanda) |
+| **Game** |[✔️](https://github.com/aryjuanda) |
+| **Kerang Ajaib** |[✔️](https://github.com/aryjuanda) |
+| **Quotes** |[✔️](https://github.com/aryjuanda) |
+| **Anime** |[✔️](https://github.com/aryjuanda) |
+| **Premium** |[✔️](https://github.com/aryjuanda) |
+| **Tools** |[✔️](https://github.com/aryjuanda) |
+| **Exec** |[✔️](https://github.com/aryjuanda) |
+| **React** |[✔️](https://github.com/aryjuanda) |
 ---------
 
 ## `SETTING`
@@ -249,7 +249,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomi)
 * [`BochilGaming`](https://github.com/bochilgaming)
-
+* [`Ary Botz`](https://github.com/aryjuanda)
 ## ```Recode By 🐾```
 [![kannachann](https://github.com/kannachann.png?size=100)](https://github.com/kannachann)
 
